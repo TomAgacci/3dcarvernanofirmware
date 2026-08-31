@@ -3,7 +3,6 @@
 ===============================================================<br><br>
 
 Print the stylus. Imprint half in sand. Pour water. Freeze. Imprint other half in sand. Pour water. Freeze.<br>
-
 Combine. Melt water. Pour aluminum.
 
 The end result uses:<br>
