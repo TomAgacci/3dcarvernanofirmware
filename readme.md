@@ -2,6 +2,17 @@
 3D CARVER Nano<br>
 ===============================================================<br>
 
+The end result uses:
+1 arduino nano
+6 CNC V3 shields
+24 motors
+1 basic broadcome stepper driver
+
+The stepper switches instantly between motors synchronized. It sends signals to the motors from
+1 stepper driver by communicating quickly between all motors and 1 driver back and forth.
+
+It's all corexy on all 6 sides.
+
 You install the firmware and add the machine to the slicer as if it were a 3d printer.
 
 The Styluses clamp, preventing movement of the block.
