@@ -2,11 +2,13 @@
 3D CARVER Nano<br>
 ===============================================================<br>
 
-The end result uses:
-1 arduino nano
-6 CNC V3 shields
-24 motors
-1 basic broadcome stepper driver
+The end result uses:<br>
+1 arduino nano<br>
+6 CNC V3 shields<br>
+24 motors<br>
+1 basic broadcom stepper driver<br>
+6 80mm Screwshape Styluses<br>
+www.thingiverse.com/thing:6198549
 
 The stepper switches instantly between motors synchronized. It sends signals to the motors from
 1 stepper driver by communicating quickly between all motors and 1 driver back and forth.
