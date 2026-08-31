@@ -26,7 +26,7 @@ It's all corexy
 
 You need 2020 bars to craft the machine as well as small parts you can find online.
 I do not have a design for a machine but this is a machinist project, and the
-firnware is simple and all put together - and not that difficult to line up.
+firmware is simple and all put together - and not that difficult to line up.
 
 You need 120mm^3 blocks made of carvable plastic or hempcrete.
 
