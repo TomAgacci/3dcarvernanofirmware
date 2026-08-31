@@ -88,9 +88,9 @@ Include the core:
 ```cpp
 #include "ArduinoCore.h"
 
-===============================================================<br>
+===============================================================
 LICENSE — Creative Commons Attribution–NonCommercial–NoDerivatives 4.0<br>
-===============================================================<br>
+===============================================================
 
 This project is licensed under the Creative Commons 
 Attribution–NonCommercial–NoDerivatives 4.0 International License.
