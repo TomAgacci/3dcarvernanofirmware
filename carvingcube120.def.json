@@ -1,0 +1,17 @@
+{
+  "id": "carvingcube120",
+  "version": 1,
+  "name": "Carving Cube 120",
+  "inherits": "fdmprinter",
+  "metadata": {
+    "visible": true,
+    "author": "Maximillian",
+    "manufacturer": "Custom"
+  },
+  "overrides": {
+    "machine_width": { "default_value": 120 },
+    "machine_depth": { "default_value": 120 },
+    "machine_height": { "default_value": 120 },
+    "extruder_count": { "default_value": 6 }
+  }
+}
