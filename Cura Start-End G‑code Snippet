@@ -1,0 +1,8 @@
+{
+  "machine_start_gcode": {
+    "default_value": "M700 ; clamp\nM701 ; calibrate\nG92 X0 Y0 Z0"
+  },
+  "machine_end_gcode": {
+    "default_value": "G1 Z10 F600\nG1 X0 Y0 F3000\nM84"
+  }
+}
