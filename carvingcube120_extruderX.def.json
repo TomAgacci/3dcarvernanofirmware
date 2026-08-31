@@ -1,0 +1,11 @@
+{
+  "id": "carvingcube120_extruder0",
+  "version": 1,
+  "name": "CarvingCube Extruder 0",
+  "inherits": "fdmextruder",
+  "metadata": { "visible": true },
+  "overrides": {
+    "material_diameter": { "default_value": 1.75 },
+    "nozzle_size": { "default_value": 0.4 }
+  }
+}
