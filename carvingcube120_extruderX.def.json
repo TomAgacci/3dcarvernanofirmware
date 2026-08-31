@@ -9,3 +9,26 @@
     "nozzle_size": { "default_value": 0.4 }
   }
 }
+
+# ----------------------------------------------------
+
+{
+  "id": "carvingcube120_extruder1",
+  "inherits": "carvingcube120_extruder0"
+}
+{
+  "id": "carvingcube120_extruder2",
+  "inherits": "carvingcube120_extruder0"
+}
+{
+  "id": "carvingcube120_extruder3",
+  "inherits": "carvingcube120_extruder0"
+}
+{
+  "id": "carvingcube120_extruder4",
+  "inherits": "carvingcube120_extruder0"
+}
+{
+  "id": "carvingcube120_extruder5",
+  "inherits": "carvingcube120_extruder0"
+}
