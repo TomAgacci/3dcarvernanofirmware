@@ -1,4 +1,6 @@
-3d Carver Nano
+===============================================================<br>
+3D CARVER Nano<br>
+===============================================================<br>
 
 You install the firmware and add the machine to the slicer as if it were a 3d printer.
 
@@ -15,10 +17,64 @@ You need 120mm^3 blocks made of carvable plastic or hempcrete.
 Screw Shape Stylus
 www.thingiverse.com/thing:6198549
 
+# Clean‑Room Arduino Core (CC BY‑NC‑ND)
 
-===============================================================
-LICENSE — Creative Commons Attribution–NonCommercial–NoDerivatives 4.0
-===============================================================
+This project includes a fully legal, clean‑room reimplementation of the
+Arduino API surface. It contains **no copyrighted Arduino core code** and is
+licensed under **Creative Commons Attribution–NonCommercial–NoDerivatives 4.0**.
+
+## Purpose
+
+This core exists to:
+- Allow firmware to compile without depending on copyrighted Arduino sources.
+- Provide a stable API surface for custom machines, simulators, and tooling.
+- Enable CC‑licensed projects to remain legally compliant.
+
+## What’s Included
+
+All files are merged into a single header: `ArduinoCore.h`.
+
+It contains clean‑room stubs for:
+
+- GPIO
+- Timing
+- Serial
+- Stream
+- Print
+- Wire (I²C)
+- SPI
+- Ethernet
+- WiFi
+- SD
+- Servo
+- SoftwareSerial
+- EEPROM
+- USBAPI
+- Keyboard
+- Mouse
+- Tone
+- IPAddress
+- Client / Server
+- pins_arduino
+- binary helpers
+
+## Legal Notes
+
+- No copyrighted Arduino code is included.
+- All implementations are original and minimal.
+- Only the *shape* of the API is reproduced.
+- No functional hardware access is provided.
+
+## Usage
+
+Include the core:
+
+```cpp
+#include "ArduinoCore.h"
+
+===============================================================<br>
+LICENSE — Creative Commons Attribution–NonCommercial–NoDerivatives 4.0<br>
+===============================================================<br>
 
 This project is licensed under the Creative Commons 
 Attribution–NonCommercial–NoDerivatives 4.0 International License.
