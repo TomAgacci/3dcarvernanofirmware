@@ -31,7 +31,8 @@ firmware is simple and all put together - and not that difficult to line up.
 You need 120mm^3 blocks made of carvable plastic or hempcrete.
 
 Screw Shape Stylus
-www.thingiverse.com/thing:6198549
+www.thingiverse.com/thing:6198549<br><br>
+Rename machineprofileCURA.def.json to carvingcube120.def.json
 
 # Clean‑Room Arduino Core (CC BY‑NC‑ND)
 
