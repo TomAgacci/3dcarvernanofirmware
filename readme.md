@@ -1,6 +1,10 @@
 ===============================================================<br>
 3D CARVER Nano<br>
-===============================================================<br>
+===============================================================<br><br>
+
+Print the stylus. Imprint half in sand. Pour water. Freeze. Imprint other half in sand. Pour water. Freeze.<br>
+
+Combine. Melt water. Pour aluminum.
 
 The end result uses:<br>
 1 arduino nano<br>
